@@ -47,3 +47,13 @@ drawBlocks();
 
 // add user
 const user = document.createElement('div');
+
+// const base_url = window.location.origin;
+
+// const host = window.location.host;
+
+// const pathArray = window.location.pathname.split('/');
+
+// console.log(base_url);
+// console.log(host);
+// console.log(pathArray);
